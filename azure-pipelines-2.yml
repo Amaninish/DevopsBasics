@@ -8,6 +8,7 @@ trigger:
 
 pool:
   name:  Default
+  demands: DESKTOP-8JJTO4Q
 
 steps:
 - task: Maven@3
